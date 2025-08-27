@@ -1,0 +1,21 @@
+2025-08-27 17:47:52.650590+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "APP_USER" not found (this database is empty); SQL statement:
+select u1_0.id,u1_0.password,u1_0.roles,u1_0.username from app_user u1_0 where u1_0.username=? [42104-232]
+2025-08-27 17:54:11.960450+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "APP_USER" not found (this database is empty); SQL statement:
+SELECT * FROM app_user [42104-232]
+2025-08-27 17:54:13.189454+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "APP_USER" not found (this database is empty); SQL statement:
+SELECT * FROM app_user [42104-232]
+2025-08-27 17:54:13.843494+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "APP_USER" not found (this database is empty); SQL statement:
+SELECT * FROM app_user [42104-232]
+2025-08-27 17:55:04.375661+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "APP_USER" not found (this database is empty); SQL statement:
+SELECT * FROM app_user [42104-232]
+2025-08-27 17:55:09.286891+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "APP_USER" not found (this database is empty); SQL statement:
+SELECT * FROM app_user [42104-232]
+2025-08-27 17:58:51.376273+05:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "APP_USER" not found (this database is empty); SQL statement:
+SELECT * FROM app_user [42104-232]
