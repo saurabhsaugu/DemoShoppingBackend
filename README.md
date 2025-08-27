@@ -1,5 +1,8 @@
 # DemoShoppingBackend
 
+## Demo Video
+[Watch the demo](./demo.mp4)
+
 DemoShoppingBackend is the backend service for the Demo Shopping Application. It provides RESTful APIs for user authentication, product management, cart operations, and order processing.
 
 ## Technologies Used
@@ -76,4 +79,3 @@ Refer to the controller classes for detailed endpoint documentation.
 ---
 
 For any issues or contributions, please open an issue or submit a pull request.
-
